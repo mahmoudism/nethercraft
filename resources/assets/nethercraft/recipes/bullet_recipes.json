@@ -1,0 +1,20 @@
+{
+	"type": "minecraft/crafting_shaped",
+	"pattern": [
+		"   ",
+		"ab ",
+		"   "
+	],
+	"key": {
+		"a": {
+			"item": "minecraft:iron_nuggets"
+		},
+		"b": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "nethercraft:bullet",
+		"count": 4
+	}
+}	

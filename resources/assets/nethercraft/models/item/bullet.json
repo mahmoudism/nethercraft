@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"texture": {
+		"layer0": "nethercraft:item/bullet"
+	}
+}
+	

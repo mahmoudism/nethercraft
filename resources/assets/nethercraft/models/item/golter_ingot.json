@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"texture": {
+		"Layer0": "nethercraft:item/golter_ingot"
+	}
+}
+	

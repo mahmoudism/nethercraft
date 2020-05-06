@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"texture": {
+		"Layer0": "iron_stick"
+	}	
+}
